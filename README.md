@@ -1,4 +1,4 @@
-# Jarvis Voice AI Assisant
+# Jarvis Voice AI Assistant
 A smart, professional–yet–fun voice assistant powered by LiveKit Agents, with support for both OpenAI Realtime API and Google Gemini Live API.
 
 🚀 Installation
@@ -82,7 +82,7 @@ Run the console to interact with your agent via terminal:
 
 uv run agent.py console
 
-#🌍 Connect to Playground
+🌍 Connect to Playground
 
 Start your agent in dev mode to connect it to LiveKit and make it accessible from anywhere:
 
